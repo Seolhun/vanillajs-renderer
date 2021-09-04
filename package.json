@@ -1,0 +1,22 @@
+{
+  "name": "vanillajs-renderer",
+  "version": "1.0.0",
+  "description": "To render node by vanillajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Seolhun/vanillajs-renderer.git"
+  },
+  "keywords": [
+    "vanillajs"
+  ],
+  "author": "Seolhun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Seolhun/vanillajs-renderer/issues"
+  },
+  "homepage": "https://github.com/Seolhun/vanillajs-renderer#readme"
+}
